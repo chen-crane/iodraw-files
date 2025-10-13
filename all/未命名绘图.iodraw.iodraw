@@ -183,10 +183,10 @@
           <mxGeometry x="435.49" y="-315" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="199.98000000000002" y="-372.5" width="161" height="48" as="geometry" />
+          <mxGeometry x="199.98000000000002" y="-390" width="161" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-87" value="异常检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="199.98000000000002" y="-285" width="161" height="48" as="geometry" />
+          <mxGeometry x="199.98000000000002" y="-324" width="161" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
