@@ -194,6 +194,9 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-81" value="LSTM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7ZsIEG_8S3EwQnOesygK-91">
           <mxGeometry x="7.191901408450704" y="35" width="52.99295774647887" height="26.5" as="geometry" />
         </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
