@@ -84,11 +84,16 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-35" value="虚拟货币与全球股票市场间高阶矩风险溢出效应分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.25" y="-800" width="334.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ZsIEG_8S3EwQnOesygK-36" target="7ZsIEG_8S3EwQnOesygK-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-36" value="实证结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-650" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ZsIEG_8S3EwQnOesygK-37" target="7ZsIEG_8S3EwQnOesygK-49">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ZsIEG_8S3EwQnOesygK-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="-685" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-37" value="模型设定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-700" width="120" height="30" as="geometry" />
