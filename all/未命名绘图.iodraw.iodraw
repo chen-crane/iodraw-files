@@ -114,11 +114,11 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-42" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-710" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-43" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-820" width="120" height="80" as="geometry" />
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-43" value="虚拟货币与全球&lt;div&gt;股票市场&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-775" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-44" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-820" width="120" height="80" as="geometry" />
+          <mxGeometry x="530" y="-710" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
