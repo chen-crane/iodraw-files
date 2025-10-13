@@ -112,10 +112,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-45" value="动态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-680" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="-680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-46" value="静态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-670" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="-670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-47" value="虚拟货币与全球&lt;div&gt;股票市场&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-757.5" width="150" height="45" as="geometry" />
