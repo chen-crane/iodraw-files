@@ -92,7 +92,7 @@
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ZsIEG_8S3EwQnOesygK-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="-685" as="targetPoint" />
+            <mxPoint x="370" y="-685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-37" value="模型设定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -116,7 +116,7 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-48" value="网络分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-655" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-49" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-49" value="自回归条件&lt;div&gt;密度模型&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="-705" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-50" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
