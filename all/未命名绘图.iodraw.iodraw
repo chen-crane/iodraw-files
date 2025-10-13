@@ -147,10 +147,13 @@
           <mxGeometry y="10" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-64" value="静态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="-645" width="75" height="40" as="geometry" />
+          <mxGeometry x="560" y="-530" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-65" value="动态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-66" value="动态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="-645" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-67" value="网络分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-645" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
