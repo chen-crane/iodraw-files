@@ -185,8 +185,8 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="199.98000000000002" y="-372.5" width="161" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="199.98" y="-284.5" width="120" height="60" as="geometry" />
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-87" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="209.98000000000002" y="-362.5" width="161" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
