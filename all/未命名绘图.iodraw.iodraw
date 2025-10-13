@@ -7,9 +7,6 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="159" y="-584" width="531" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-535" width="210" height="105" as="geometry" />
-        </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="159" y="-810" width="531" height="210" as="geometry" />
         </mxCell>
@@ -149,17 +146,23 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-61" value="驱动因子识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7ZsIEG_8S3EwQnOesygK-63">
           <mxGeometry y="10" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-64" value="静态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="-530" width="75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-66" value="动态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="-480" width="75" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-67" value="网络分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-645" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-70" value="引入重构因子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-520" width="60" height="80" as="geometry" />
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="462.5" y="-535" width="180" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7ZsIEG_8S3EwQnOesygK-71">
+          <mxGeometry width="180" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-64" value="静态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7ZsIEG_8S3EwQnOesygK-71">
+          <mxGeometry x="92.5" y="5" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-66" value="动态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7ZsIEG_8S3EwQnOesygK-71">
+          <mxGeometry x="92.5" y="55" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-70" value="引入重构因子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7ZsIEG_8S3EwQnOesygK-71">
+          <mxGeometry x="17.5" y="15" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
