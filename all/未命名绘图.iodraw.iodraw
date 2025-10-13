@@ -165,7 +165,7 @@
           <mxGeometry x="17.5" y="15" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-72" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="159" y="-407" width="541" height="187" as="geometry" />
+          <mxGeometry x="159" y="-407" width="531" height="187" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214.00000000000003" y="-360" width="161" height="48" as="geometry" />
@@ -194,8 +194,8 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-81" value="LSTM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7ZsIEG_8S3EwQnOesygK-91">
           <mxGeometry x="7.191901408450704" y="35" width="52.99295774647887" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="-210" width="541" height="40" as="geometry" />
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-92" value="结论与建议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="-210" width="531" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
