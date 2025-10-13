@@ -119,7 +119,7 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-49" value="自回归条件&lt;div&gt;密度模型&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="-705" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-50" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-50" value="TVP-VAR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="-705" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
