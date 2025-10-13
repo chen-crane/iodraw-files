@@ -85,13 +85,13 @@
           <mxGeometry x="257.25" y="-800" width="334.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-36" value="实证结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-660" width="120" height="30" as="geometry" />
+          <mxGeometry x="210" y="-650" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-37" value="模型设定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-710" width="120" height="30" as="geometry" />
+          <mxGeometry x="210" y="-700" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-38" value="数据选取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-760" width="120" height="30" as="geometry" />
+          <mxGeometry x="210" y="-750" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
