@@ -137,8 +137,8 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-60" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="-620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-61" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-620" width="60" height="30" as="geometry" />
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-61" value="驱动因子识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-460" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
