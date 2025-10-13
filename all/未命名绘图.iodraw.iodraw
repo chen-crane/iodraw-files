@@ -168,7 +168,7 @@
           <mxGeometry x="159" y="-407" width="541" height="187" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="396" y="-395" width="284" height="65" as="geometry" />
+          <mxGeometry x="388" y="-371.5" width="284" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-77" value="模型预测对比" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="475.74" y="-390" width="184.26" height="30" as="geometry" />
@@ -183,7 +183,7 @@
           <mxGeometry x="435.49" y="-315" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="199.98000000000002" y="-390" width="161" height="48" as="geometry" />
+          <mxGeometry x="199.98000000000002" y="-363" width="161" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-87" value="异常检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="199.98000000000002" y="-290" width="161" height="48" as="geometry" />
