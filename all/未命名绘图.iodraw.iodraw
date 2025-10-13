@@ -146,6 +146,12 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-61" value="驱动因子识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7ZsIEG_8S3EwQnOesygK-63">
           <mxGeometry y="10" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-64" value="静态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-645" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-65" value="动态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="-645" width="75" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
