@@ -158,8 +158,8 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-67" value="网络分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-645" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-70" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-525" width="60" height="30" as="geometry" />
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-70" value="引入重构因子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-525" width="90" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
