@@ -146,7 +146,7 @@
           <mxGeometry y="10" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-67" value="网络分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="-645" width="75" height="40" as="geometry" />
+          <mxGeometry x="547.5" y="-655" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-71" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="440" y="-530" width="180" height="105" as="geometry" />
