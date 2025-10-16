@@ -241,7 +241,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-106" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="440" y="-180" width="215" height="65" as="geometry" />
+          <mxGeometry x="442.5" y="-180" width="215" height="65" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-107" value="是否考虑外部因子的高阶矩框架对预警性能影响的对比分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-106">
           <mxGeometry width="215" height="65" as="geometry" />
