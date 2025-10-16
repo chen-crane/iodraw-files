@@ -205,6 +205,11 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-9" value="重构因子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="-650" width="105" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-22" value="G7国家与金砖五国股票市场收益率" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9.666666666666629;" vertex="1" parent="1">
           <mxGeometry x="165" y="-800" width="225" height="65" as="geometry" />
         </mxCell>
@@ -247,6 +252,9 @@
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-33" value="风险溢出效应测度框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
           <mxGeometry x="36.36363636363637" y="6" width="218.1818181818182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-9" target="kEmoaVi8w5o0Pd_2IK50-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
