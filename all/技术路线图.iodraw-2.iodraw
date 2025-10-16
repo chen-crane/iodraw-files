@@ -64,13 +64,13 @@
           <mxGeometry x="545" y="-1040" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-25" value="智能预警&lt;div&gt;研究&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" parent="1" vertex="1">
-          <mxGeometry x="500" y="-990" width="70" height="80" as="geometry" />
+          <mxGeometry x="580" y="-990" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-26" value="风险溢出&lt;div&gt;效应研究&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" parent="1" vertex="1">
           <mxGeometry x="340" y="-990" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-27" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;风险驱动因子研究&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" parent="1" vertex="1">
-          <mxGeometry x="414" y="-1000" width="70" height="80" as="geometry" />
+          <mxGeometry x="500" y="-990" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-28" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;市场间高阶矩风险溢出驱动机制分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="-890" width="100" height="60" as="geometry" />
