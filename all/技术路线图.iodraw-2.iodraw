@@ -214,7 +214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-22" value="G7国家与金砖五国股票市场收益率" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9.666666666666629;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-795" width="225" height="65" as="geometry" />
+          <mxGeometry x="197.5" y="-795" width="225" height="65" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-28" target="kEmoaVi8w5o0Pd_2IK50-6">
           <mxGeometry relative="1" as="geometry">
