@@ -251,13 +251,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-23" value="ACD&lt;div&gt;条件密度自回归&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
-          <mxGeometry x="15" y="45" width="120" height="60" as="geometry" />
+          <mxGeometry x="5" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-24" value="TVP-VAR&lt;div&gt;connectedness&lt;/div&gt;&lt;div&gt;approach&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
           <mxGeometry x="134.99636363636364" y="45" width="106.06060606060606" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-33" value="风险溢出效应测度框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
           <mxGeometry x="30.303030303030308" y="6" width="181.81818181818184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="-610" as="sourcePoint" />
+            <mxPoint x="360" y="-660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
