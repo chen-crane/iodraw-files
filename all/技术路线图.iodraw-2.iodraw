@@ -238,10 +238,7 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-24" value="TVP-VAR&lt;div&gt;connectedness&lt;/div&gt;&lt;div&gt;approach&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="-670" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-28" value="宏观外部&lt;div&gt;驱动因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
