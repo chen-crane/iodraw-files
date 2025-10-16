@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-1020" width="336" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="-584" width="531" height="164" as="geometry" />
         </mxCell>
@@ -58,7 +61,7 @@
           <mxGeometry x="540" y="-1070" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-14" value="研究创新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="540" y="-1040" width="80" height="30" as="geometry" />
+          <mxGeometry x="920" y="-1000" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-25" value="智能预警&lt;div&gt;研究&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" parent="1" vertex="1">
           <mxGeometry x="510" y="-990" width="70" height="80" as="geometry" />
@@ -165,9 +168,6 @@
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-72" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="159" y="-407" width="531" height="187" as="geometry" />
-        </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-1070" width="336" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="214.00000000000003" y="-360" width="161" height="48" as="geometry" />
