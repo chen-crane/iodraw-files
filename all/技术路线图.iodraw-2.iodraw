@@ -124,7 +124,7 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-87" value="异常检测模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="463.5" y="-243" width="161" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-90" value="高阶矩风险溢出智能预警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-90" value="高阶矩风险溢出智能预警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="256.25" y="-284.5" width="334.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-91" value="" style="group" parent="1" vertex="1" connectable="0">
