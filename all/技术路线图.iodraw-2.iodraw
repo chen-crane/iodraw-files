@@ -229,7 +229,7 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-33" value="风险溢出效应测度框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
           <mxGeometry x="40" y="6" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=10.5;dx=51;notch=0;arrowHead=55;rounded=1;direction=east;rotation=0;" vertex="1" parent="1">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=10.5;dx=51;notch=0;arrowHead=55;rounded=1;direction=west;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="-575" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
