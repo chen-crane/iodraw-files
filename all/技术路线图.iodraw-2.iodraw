@@ -55,7 +55,7 @@
           <mxGeometry x="390.5" y="-1040" width="85.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-24" value="高阶矩与极端风险研究" style="shape=card;whiteSpace=wrap;html=1;size=20;" parent="1" vertex="1">
-          <mxGeometry x="430" y="-990" width="70" height="80" as="geometry" />
+          <mxGeometry x="420" y="-990" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-13" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="545" y="-1070" width="80" height="30" as="geometry" />
@@ -64,7 +64,7 @@
           <mxGeometry x="545" y="-1040" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-25" value="智能预警&lt;div&gt;研究&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" parent="1" vertex="1">
-          <mxGeometry x="510" y="-990" width="70" height="80" as="geometry" />
+          <mxGeometry x="500" y="-990" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-26" value="风险溢出&lt;div&gt;效应研究&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" parent="1" vertex="1">
           <mxGeometry x="340" y="-990" width="70" height="80" as="geometry" />
@@ -199,11 +199,6 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-92" value="结论与建议" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="-210" width="531" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="kEmoaVi8w5o0Pd_2IK50-2">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="440" y="-910" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
