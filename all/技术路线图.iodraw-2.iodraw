@@ -10,12 +10,6 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="159" y="-530" width="265" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="-454" width="531" height="164" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="-689" width="531" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="-1080" width="530" height="260" as="geometry" />
         </mxCell>
@@ -92,26 +86,6 @@
             <mxPoint x="340" y="-1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-35" value="虚拟货币与全球股票市场间高阶矩风险溢出效应分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1008.25" y="-670" width="334.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-36" value="实证结果" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="961" y="-520" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7ZsIEG_8S3EwQnOesygK-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1121" y="-555" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-37" value="模型设定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="961" y="-570" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7ZsIEG_8S3EwQnOesygK-38" target="7ZsIEG_8S3EwQnOesygK-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-38" value="数据选取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="961" y="-620" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ZsIEG_8S3EwQnOesygK-45" target="7ZsIEG_8S3EwQnOesygK-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -124,36 +98,6 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-46" value="静态分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="231" y="-450" width="121" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-47" value="虚拟货币与全球&lt;span style=&quot;background-color: initial;&quot;&gt;股票市场&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1126" y="-618.75" width="250" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-49" value="自回归条件&lt;div&gt;密度模型&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="1126" y="-575" width="115" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-50" value="TVP-VAR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="1261" y="-575" width="115" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-57" value="高阶矩风险溢出驱动因素识别与重构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1008.75" y="-440" width="334.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-62" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1091" y="-400" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-58" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;" parent="7ZsIEG_8S3EwQnOesygK-62" vertex="1">
-          <mxGeometry width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-60" value="驱动因子重构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7ZsIEG_8S3EwQnOesygK-62" vertex="1">
-          <mxGeometry y="15" width="60" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-63" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="991" y="-400" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-59" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;" parent="7ZsIEG_8S3EwQnOesygK-63" vertex="1">
-          <mxGeometry width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-61" value="驱动因子识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7ZsIEG_8S3EwQnOesygK-63" vertex="1">
-          <mxGeometry y="10" width="60" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ZsIEG_8S3EwQnOesygK-67" target="7ZsIEG_8S3EwQnOesygK-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -164,21 +108,6 @@
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-67" value="网络分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="497.5" y="-450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-71" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1191" y="-400" width="180" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-69" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="7ZsIEG_8S3EwQnOesygK-71" vertex="1">
-          <mxGeometry width="180" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-64" value="静态分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="7ZsIEG_8S3EwQnOesygK-71" vertex="1">
-          <mxGeometry x="92.5" y="5" width="75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-66" value="动态分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="7ZsIEG_8S3EwQnOesygK-71" vertex="1">
-          <mxGeometry x="92.5" y="55" width="75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-70" value="引入重构因子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7ZsIEG_8S3EwQnOesygK-71" vertex="1">
-          <mxGeometry x="17.5" y="15" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-72" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="910" y="-277" width="531" height="187" as="geometry" />
