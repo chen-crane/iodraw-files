@@ -246,14 +246,8 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-106">
           <mxGeometry width="215" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-108" value="模型预测对比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-106">
-          <mxGeometry x="36.1411971830986" y="8.5" width="139.49260563380278" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-109" value="BP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-106">
           <mxGeometry x="154.62588028169012" y="35" width="52.99295774647887" height="26.5" as="geometry" />
-        </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-110" value="Transform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-106">
-          <mxGeometry x="81.00352112676056" y="35" width="52.99295774647887" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-111" value="LSTM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-106">
           <mxGeometry x="7.191901408450704" y="35" width="52.99295774647887" height="26.5" as="geometry" />
