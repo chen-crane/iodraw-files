@@ -227,10 +227,10 @@
           <mxGeometry x="440" y="-800" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-23" value="ACD&lt;div&gt;条件密度自回归&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-550" width="130" height="60" as="geometry" />
+          <mxGeometry x="410" y="-670" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-24" value="TVP-VAR&lt;div&gt;connectedness&lt;/div&gt;&lt;div&gt;approach&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-660" width="140" height="60" as="geometry" />
+          <mxGeometry x="545" y="-670" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
