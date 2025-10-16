@@ -115,10 +115,10 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-72" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="158" y="-290" width="531" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="213" y="-243" width="161" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-87" value="异常检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-87" value="异常检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="463.5" y="-243" width="161" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-90" value="高阶矩风险溢出智能预警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -196,10 +196,10 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kEmoaVi8w5o0Pd_2IK50-34" source="kEmoaVi8w5o0Pd_2IK50-23" target="kEmoaVi8w5o0Pd_2IK50-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-23" value="ACD&lt;div&gt;条件密度自回归&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-23" value="ACD&lt;div&gt;条件密度自回归&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
           <mxGeometry x="5" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-24" value="TVP-VAR&lt;div&gt;connectedness&lt;/div&gt;&lt;div&gt;approach&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-24" value="TVP-VAR&lt;div&gt;connectedness&lt;/div&gt;&lt;div&gt;approach&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
           <mxGeometry x="134.99636363636364" y="45" width="106.06060606060606" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-33" value="风险溢出效应测度框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
