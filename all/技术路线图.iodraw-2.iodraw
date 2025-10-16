@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="HQNnp3EGB-hRXfIPDpX4">
-    <mxGraphModel dx="2074" dy="2313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-11" value="研究背景" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="371" y="-1070" width="86" height="30" as="geometry" />
+          <mxGeometry x="390" y="-1070" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-12" value="研究意义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="371" y="-1040" width="85.5" height="30" as="geometry" />
@@ -61,7 +61,7 @@
           <mxGeometry x="555" y="-1070" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-14" value="研究创新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="920" y="-1000" width="80" height="30" as="geometry" />
+          <mxGeometry x="555" y="-1040" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-25" value="智能预警&lt;div&gt;研究&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;size=20;" parent="1" vertex="1">
           <mxGeometry x="510" y="-990" width="70" height="80" as="geometry" />
