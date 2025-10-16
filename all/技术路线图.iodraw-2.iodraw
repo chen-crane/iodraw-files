@@ -148,7 +148,7 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-6" target="kEmoaVi8w5o0Pd_2IK50-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-6" value="&lt;div&gt;DDFM&lt;/div&gt;深度动态因子模型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-6" value="&lt;div&gt;DDFM&lt;/div&gt;深度动态因子模型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="-730" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-9" value="重构因子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -187,7 +187,7 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-30" value="微观外部&lt;div&gt;驱动因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="601" y="-810" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-34" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-34" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="185" y="-680" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
