@@ -274,7 +274,7 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-81" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;考虑外部因子的高阶矩风险溢出效应分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="459.75" y="-525" width="161.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-89" value="网络分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-89" value="驱动因素分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="497.5" y="-377.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
