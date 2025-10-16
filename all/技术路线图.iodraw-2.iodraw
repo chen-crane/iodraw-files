@@ -265,7 +265,7 @@
             <mxPoint x="190" y="-330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;" vertex="1" parent="1">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-64" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=57;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="-390" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
