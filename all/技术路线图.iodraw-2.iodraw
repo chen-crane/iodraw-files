@@ -259,9 +259,6 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-9" target="kEmoaVi8w5o0Pd_2IK50-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.418;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-22" target="kEmoaVi8w5o0Pd_2IK50-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
