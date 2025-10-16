@@ -116,7 +116,7 @@
           <mxGeometry x="497.5" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-72" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="158" y="-290" width="531" height="187" as="geometry" />
+          <mxGeometry x="159" y="-300" width="531" height="187" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="213" y="-243" width="161" height="48" as="geometry" />
@@ -236,7 +236,7 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-106" value="" style="group;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="442.5" y="-180" width="215" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-107" value="是否考虑外部因子的高阶矩框架对预警性能影响的对比分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-106">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-107" value="是否考虑外部因子的高阶矩框架对预警性能影响的对比分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-106">
           <mxGeometry width="215" height="65" as="geometry" />
         </mxCell>
       </root>
