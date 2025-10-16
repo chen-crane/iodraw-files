@@ -226,6 +226,9 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-23" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-545" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-24" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
