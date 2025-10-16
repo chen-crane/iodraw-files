@@ -110,19 +110,19 @@
           <mxGeometry x="497.5" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-72" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="910" y="-277" width="531" height="187" as="geometry" />
+          <mxGeometry x="158" y="-290" width="531" height="187" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="965" y="-230" width="161" height="48" as="geometry" />
+          <mxGeometry x="213" y="-243" width="161" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-87" value="异常检测" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1215.5" y="-230" width="161" height="48" as="geometry" />
+          <mxGeometry x="463.5" y="-243" width="161" height="48" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-90" value="高阶矩风险溢出智能预警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1008.25" y="-271.5" width="334.5" height="30" as="geometry" />
+          <mxGeometry x="256.25" y="-284.5" width="334.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-91" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1073" y="-167" width="215" height="65" as="geometry" />
+          <mxGeometry x="321" y="-180" width="215" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="7ZsIEG_8S3EwQnOesygK-91" vertex="1">
           <mxGeometry width="215" height="65" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry x="7.191901408450704" y="35" width="52.99295774647887" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-92" value="结论与建议" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="-80" width="531" height="40" as="geometry" />
+          <mxGeometry x="158" y="-93" width="531" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-6" target="kEmoaVi8w5o0Pd_2IK50-9">
           <mxGeometry relative="1" as="geometry" />
