@@ -223,8 +223,15 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-89" value="驱动因素分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="497.5" y="-377.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-32" target="kEmoaVi8w5o0Pd_2IK50-82">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-100" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="-610" as="sourcePoint" />
+            <mxPoint x="510" y="-660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="-610" />
+              <mxPoint x="460" y="-660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
