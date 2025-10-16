@@ -241,6 +241,9 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-28" value="宏观外部&lt;div&gt;驱动因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-30" value="宏观外部&lt;div&gt;驱动因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-620" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
