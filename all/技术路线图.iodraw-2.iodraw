@@ -269,7 +269,7 @@
           <mxGeometry x="225" y="-430" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-70" value="动态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1223.5" y="-515" width="75" height="40" as="geometry" />
+          <mxGeometry x="235" y="-372.5" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-71" value="网络分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1308.5" y="-515" width="75" height="40" as="geometry" />
