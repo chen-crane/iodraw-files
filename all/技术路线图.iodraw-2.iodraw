@@ -157,11 +157,6 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-22" target="kEmoaVi8w5o0Pd_2IK50-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="-630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-22" value="G7国家与金砖五国股票市场收益率" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9.666666666666629;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="-795" width="225" height="65" as="geometry" />
         </mxCell>
@@ -235,16 +230,14 @@
             <mxPoint x="510" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.992;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-103" target="kEmoaVi8w5o0Pd_2IK50-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="-632" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-106" value="" style="group;fontSize=13;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="442.5" y="-180" width="215" height="65" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-107" value="是否考虑外部因子的高阶矩框架对预警性能影响的对比分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-106">
           <mxGeometry width="215" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-112" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
