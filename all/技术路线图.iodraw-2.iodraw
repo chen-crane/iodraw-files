@@ -14,7 +14,7 @@
           <mxGeometry x="159" y="-1140" width="531" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-1008.75" width="530" height="260" as="geometry" />
+          <mxGeometry x="159" y="-1080" width="530" height="260" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;引言&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="-1070" width="120" height="60" as="geometry" />
@@ -166,7 +166,7 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-72" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="159" y="-407" width="531" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="340" y="-1070" width="336" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-85" value="图神经网络" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
