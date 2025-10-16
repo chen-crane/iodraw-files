@@ -271,6 +271,12 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-81" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;考虑外部因子的高阶矩风险溢出效应分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="511.5" y="-520" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-85" value="静态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="-450" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-86" value="动态分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="-400" width="75" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
