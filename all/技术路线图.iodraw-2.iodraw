@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="-530" width="265" height="70" as="geometry" />
+          <mxGeometry x="159" y="-540" width="265" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="-454" width="531" height="164" as="geometry" />
@@ -263,13 +263,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-80" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;高阶矩风险溢出效应分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-520" width="110" height="60" as="geometry" />
+          <mxGeometry x="236.5" y="-535" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="444" y="-530" width="245" height="70" as="geometry" />
+          <mxGeometry x="418" y="-540" width="245" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-81" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;考虑外部因子的高阶矩风险溢出效应分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="485.75" y="-525" width="161.5" height="60" as="geometry" />
+          <mxGeometry x="459.75" y="-535" width="161.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
