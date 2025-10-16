@@ -200,7 +200,7 @@
           <mxGeometry x="235" y="-720" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-9" value="重构因子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-635" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="-650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-22" value="G7国家与金砖五国股票市场收益率" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9.666666666666629;" vertex="1" parent="1">
           <mxGeometry x="440" y="-802.5" width="225" height="65" as="geometry" />
@@ -209,10 +209,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-23" value="ACD&lt;div&gt;条件密度自回归&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-689" width="130" height="60" as="geometry" />
+          <mxGeometry x="281.5" y="-545" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-24" value="TVP-VAR&lt;div&gt;connectedness&lt;/div&gt;&lt;div&gt;approach&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="-689" width="140" height="60" as="geometry" />
+          <mxGeometry x="426.5" y="-545" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-28" value="宏观外部&lt;div&gt;驱动因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="-800" width="100" height="60" as="geometry" />
