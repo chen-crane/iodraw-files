@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-1020" width="336" height="60" as="geometry" />
+          <mxGeometry x="520" y="-1070" width="336" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="-584" width="531" height="164" as="geometry" />
@@ -13,11 +13,11 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="-810" width="531" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: rgb(0, 77, 119); font-weight: bold;&quot;&gt;高阶矩视域下加密货币与全球股市间风险溢出效应测度及智能预警&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="159" y="-1140" width="531" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="159" y="-1080" width="530" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: rgb(0, 77, 119); font-weight: bold;&quot;&gt;高阶矩视域下加密货币与全球股市间风险溢出效应测度及智能预警&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="159" y="-1140" width="531" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;引言&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="-1070" width="120" height="60" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry x="430" y="-990" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-13" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="540" y="-1070" width="80" height="30" as="geometry" />
+          <mxGeometry x="940" y="-1020" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-14" value="研究创新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="920" y="-1000" width="80" height="30" as="geometry" />
