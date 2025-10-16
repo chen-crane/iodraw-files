@@ -217,7 +217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-28" value="宏观外部&lt;div&gt;驱动因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="-800" width="100" height="60" as="geometry" />
+          <mxGeometry x="485" y="-800" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-30" target="kEmoaVi8w5o0Pd_2IK50-6">
           <mxGeometry relative="1" as="geometry">
@@ -228,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-30" value="微观外部&lt;div&gt;驱动因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-800" width="100" height="60" as="geometry" />
+          <mxGeometry x="590" y="-800" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-34" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="-660" width="300" height="120" as="geometry" />
