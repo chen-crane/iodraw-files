@@ -209,7 +209,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-5" value="微观驱动因子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="-800" width="120" height="60" as="geometry" />
+          <mxGeometry x="187.5" y="-720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kEmoaVi8w5o0Pd_2IK50-6" target="kEmoaVi8w5o0Pd_2IK50-9">
           <mxGeometry relative="1" as="geometry" />
