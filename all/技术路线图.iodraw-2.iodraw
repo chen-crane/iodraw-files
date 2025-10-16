@@ -124,10 +124,10 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-87" value="异常检测模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="463.5" y="-243" width="161" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-90" value="高阶矩风险溢出智能预警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-90" value="高阶矩风险溢出智能预警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="256.25" y="-284.5" width="334.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-91" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-91" value="" style="group;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="190" y="-180" width="215" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="7ZsIEG_8S3EwQnOesygK-91" vertex="1">
@@ -136,7 +136,7 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-77" value="模型预测对比" style="rounded=1;whiteSpace=wrap;html=1;" parent="7ZsIEG_8S3EwQnOesygK-91" vertex="1">
           <mxGeometry x="36.1411971830986" y="8.5" width="139.49260563380278" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-79" value="BP" style="rounded=1;whiteSpace=wrap;html=1;" parent="7ZsIEG_8S3EwQnOesygK-91" vertex="1">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-79" value="BP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="7ZsIEG_8S3EwQnOesygK-91" vertex="1">
           <mxGeometry x="154.62588028169012" y="35" width="52.99295774647887" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="7ZsIEG_8S3EwQnOesygK-80" value="Transform" style="rounded=1;whiteSpace=wrap;html=1;" parent="7ZsIEG_8S3EwQnOesygK-91" vertex="1">
