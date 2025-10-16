@@ -245,22 +245,22 @@
           <mxGeometry x="601" y="-810" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="-680" width="300" height="120" as="geometry" />
+          <mxGeometry x="160" y="-680" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
-          <mxGeometry width="300" height="120" as="geometry" />
+          <mxGeometry width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kEmoaVi8w5o0Pd_2IK50-34" source="kEmoaVi8w5o0Pd_2IK50-23" target="kEmoaVi8w5o0Pd_2IK50-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-23" value="ACD&lt;div&gt;条件密度自回归&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
-          <mxGeometry x="19.545454545454543" y="45" width="118.18181818181819" height="60" as="geometry" />
+          <mxGeometry x="16.287878787878785" y="45" width="98.4848484848485" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-24" value="TVP-VAR&lt;div&gt;connectedness&lt;/div&gt;&lt;div&gt;approach&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
-          <mxGeometry x="151.36363636363637" y="45" width="127.27272727272727" height="60" as="geometry" />
+          <mxGeometry x="126.13636363636365" y="45" width="106.06060606060606" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-33" value="风险溢出效应测度框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kEmoaVi8w5o0Pd_2IK50-34">
-          <mxGeometry x="36.36363636363637" y="6" width="218.1818181818182" height="30" as="geometry" />
+          <mxGeometry x="30.303030303030308" y="6" width="181.81818181818184" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
