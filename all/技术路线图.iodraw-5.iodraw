@@ -216,9 +216,9 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-89" value="驱动因素分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="497.5" y="-390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-101" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.804;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=default;" parent="1" edge="1">
+        <mxCell id="kEmoaVi8w5o0Pd_2IK50-101" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="435" y="-584" as="sourcePoint" />
+            <mxPoint x="460" y="-570" as="sourcePoint" />
             <mxPoint x="540.75" y="-540.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
