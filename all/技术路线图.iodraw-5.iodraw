@@ -180,9 +180,6 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-30" value="微观外部&lt;div&gt;驱动因子&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="601" y="-810" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kEmoaVi8w5o0Pd_2IK50-34" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="185" y="-704.31" width="250" height="168.61" as="geometry" />
-        </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7ZsIEG_8S3EwQnOesygK-67" target="7ZsIEG_8S3EwQnOesygK-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -226,7 +223,7 @@
           <mxGeometry x="215.3030303030303" y="-698.31" width="181.81818181818184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="duKAqw6F01b8fFzxkphy-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=49.5;flipV=1;rotation=85;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="251.57" y="-593.8599999999999" width="73.84" height="58.16" as="geometry" />
+          <mxGeometry x="253.57999999999998" y="-597.7399999999999" width="73.84" height="58.16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
