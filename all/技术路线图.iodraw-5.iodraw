@@ -225,6 +225,12 @@
         <mxCell id="duKAqw6F01b8fFzxkphy-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=49.5;flipV=1;rotation=85;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="253.57999999999998" y="-597.7399999999999" width="73.84" height="58.16" as="geometry" />
         </mxCell>
+        <mxCell id="duKAqw6F01b8fFzxkphy-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-650" as="sourcePoint" />
+            <mxPoint x="440" y="-700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
