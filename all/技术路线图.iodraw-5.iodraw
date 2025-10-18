@@ -222,8 +222,8 @@
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-107" value="是否考虑外部因子的高阶矩框架对预警性能影响的对比分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="kEmoaVi8w5o0Pd_2IK50-106" vertex="1">
           <mxGeometry width="215" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="duKAqw6F01b8fFzxkphy-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=70;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="410.45" y="-609.71" width="106.46" height="105.92" as="geometry" />
+        <mxCell id="duKAqw6F01b8fFzxkphy-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="433.54" y="-637" width="106.46" height="105.92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
