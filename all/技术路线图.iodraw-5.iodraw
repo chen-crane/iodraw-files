@@ -147,10 +147,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-6" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DDFM&lt;/font&gt;&lt;/div&gt;深度动态因子模型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="527.5" y="-730" width="130" height="60" as="geometry" />
+          <mxGeometry x="527.5" y="-730" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-9" value="重构因子" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="540" y="-650" width="105" height="60" as="geometry" />
+          <mxGeometry x="540" y="-650" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kEmoaVi8w5o0Pd_2IK50-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kEmoaVi8w5o0Pd_2IK50-22" target="kEmoaVi8w5o0Pd_2IK50-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
