@@ -42,7 +42,7 @@
         <mxCell id="7ZsIEG_8S3EwQnOesygK-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;理论&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;机制&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="180" y="-890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7ZsIEG_8S3EwQnOesygK-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7ZsIEG_8S3EwQnOesygK-3" target="7ZsIEG_8S3EwQnOesygK-4" edge="1">
+        <mxCell id="7ZsIEG_8S3EwQnOesygK-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" source="7ZsIEG_8S3EwQnOesygK-3" target="7ZsIEG_8S3EwQnOesygK-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="-920" as="sourcePoint" />
             <mxPoint x="440" y="-970" as="targetPoint" />
